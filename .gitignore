@@ -1,0 +1,9 @@
+.env
+.env.test
+.env.prod
+.env.staging
+
+package-lock.json
+
+node_modules/
+logs/
