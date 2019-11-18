@@ -9,8 +9,8 @@ For development, you will only need Node.js and a node global package, NPM, inst
 
 ## Install
 
-    $ git clone https://github.com/rafaelszago/express-js-api
-    $ cd express-js-api
+    $ git clone https://github.com/rafaelszago/halving-api
+    $ cd halving-api
     $ npm install
 
 ## Development
