@@ -1,6 +1,6 @@
-# Express.js API
+# Halving Node.js API
 
-🎩 Minimum project structure to get started developing with Express.js
+API to calculate the amount of time left until the BTC halving
 
 ---
 ## Requirements
