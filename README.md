@@ -20,3 +20,8 @@ For development, you will only need Node.js and a node global package, NPM, inst
 ## Production
 
     $ npm run prod
+
+
+## Create your .env (you might check .env.example)
+
+  
